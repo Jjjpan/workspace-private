@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1527409861 source:c:\users\m\desktop\ds\djstr_dog\main.cpp
+	<iostream>
+	<cstdio>
+	<fstream>
+	<cstdlib>
+	<string>
+	<cstring>
+	<cmath>
+
